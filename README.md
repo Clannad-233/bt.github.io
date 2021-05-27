@@ -1,4 +1,4 @@
-# ikuai.github.io
+# bt.github.io
 说明：链接至相关网址
 
 ------index.html------
@@ -17,5 +17,5 @@
  
  ------CNAME------
  ```html
- https://Clannad-233.github.io/仓库名称
+ https://用户.github.io/仓库
 ```
